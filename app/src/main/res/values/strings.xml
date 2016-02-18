@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Projects -->
+    <string name="p1">Popular Movies</string>
+    <string name="p2">Super Duo</string>
+    <string name="p3">Build It Bigger</string>
+    <string name="p4">Make App Material</string>
+    <string name="p5">Capstone Project</string>
+</resources>
